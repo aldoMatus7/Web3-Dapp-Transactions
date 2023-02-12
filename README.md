@@ -3,7 +3,7 @@
 [![Opera-Captura-de-pantalla-2023-02-09-054047-kryptum-xyz.png](https://i.postimg.cc/QdqHHLqD/Opera-Captura-de-pantalla-2023-02-09-054047-kryptum-xyz.png)](https://postimg.cc/87j1003X)
 
 # Introduction
-This repository contains the source code for a decentralized application (Dapp) that has been built using Solidity, deployed on the Goerli test network, and utilizing Hardhat for deployment, Ethers.js for connecting with the front end, Metamask for transactions, and React.js for the front end. All transaction data are stored in the Goerli Test Network. Also, you are able to get ETH from the Goerli Faucet directly and put a keywork that after it will convert in a Gif to watch it as the proof of your transaction is done!
+This repository contains the source code for a decentralized application (Dapp) that has been built using Solidity, deployed on the Goerli test network, and utilizing Hardhat for deployment, Ethers.js for connecting with the front end, Metamask for transactions, and React.js for the front end. All transaction data are stored in the Goerli Test Network. Also, you are able to get ETH from the Goerli Faucet directly and put a keywork that after it will convert in a Gif to watch it as the proof of your transaction is done!.
 
 ### Solidity
 [Solidity](https://soliditylang.org) is a high-level programming language that is used to write smart contracts for the Ethereum blockchain. In this dApp, Solidity is used to write the smart contract that governs the transaction and manipulation of data within the application.
