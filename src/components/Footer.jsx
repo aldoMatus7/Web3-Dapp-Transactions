@@ -9,7 +9,7 @@ const Footer = () => (
         </div>
         <div className="flex flex-1 justify-evenly items-center flex-wrap sm:mt-0 mt-5 w-full">
           <a className="text-white text-base text-center mx-2" href={"https://goerlifaucet.com"}>Faucet</a>
-          <a className="text-white text-base text-center mx-2" href={"https://www.youtube.com/@EstonianBlockchainChannel"}>YouTube</a>
+          <a className="text-white text-base text-center mx-2" href={"https://twitter.com/aldomatus7"}>Twitter</a>
           <a className="text-white text-base text-center mx-2" href={"https://www.linkedin.com/in/aldo-matus117"}>LinkedIn</a>
           <a className="text-white text-base text-center mx-2" href={"https://github.com/aldoMatus7"}>GitHub</a>
         </div>
